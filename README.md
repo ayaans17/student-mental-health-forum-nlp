@@ -64,7 +64,7 @@ Saves conversations for further sentiment evaluation.
 
 💻 Installation and Setup
 1. Clone the Repository
-git clone https://github.com/your-username/student-mental-health-forum-nlp.git
+git clone https://github.com/ayaans17/student-mental-health-forum-nlp.git
 
 2. Navigate to the Project
 cd student-mental-health-forum-nlp
