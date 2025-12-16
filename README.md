@@ -12,6 +12,8 @@ An interactive online forum that helps college students discuss life challenges,
 
 🤖 Chatbot Support – ML-based chatbot using neural intents assists users with navigation and tracks emotional tone.
 
+🤖 Asynchronous Messaging – Asynchronous Web Chatting using Web Sockets.
+
 📊 User Analytics Dashboard – Visual graphs show positivity, negativity, and subjectivity trends of user posts.
 
 🔒 Privacy & Ethics – Maintains confidentiality and focuses on emotional support, not clinical diagnosis.
@@ -40,7 +42,6 @@ Programming Language	Python
 Database	SQLite / MySQL
 Sentiment Analysis Libraries	TextBlob, VADER
 Chatbot / NLP Libraries	NLTK, spaCy, scikit-learn
-Machine Learning Techniques	CNN+RNN, LSTM, ALBERT, FNNet, Contrastive & Unsupervised Learning
 🧠 NLP & Sentiment Analysis
 TextBlob
 
