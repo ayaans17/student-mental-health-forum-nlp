@@ -9,31 +9,11 @@
       "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!", "See you soon!!"],
       "context_set": ""
     },
-    {"tag": "orders",
-      "patterns": ["what are my orders?", "can u show my orders?", "what orders have i given?"],
-      "responses": ["You own the following orders: ABBV, AAPL, FB, NVDA and an ETF of the S&P 500 Index!"],
+    {"tag": "happy",
+      "patterns": ["good", "excited", "amazing", "best", "fun"],
+      "responses": ["That's good to hear!!", "You seem really happy."],
       "context_set": ""
-    },
-    {"tag":"login",
-      "patterns":["i want to log in", "login", "log in", "how do i log in?","how to login?"],
-      "responses":["we will show you","here is how u can log in"],
-      "context_set": ""
-    },
-    {"tag":"signup",
-        "patterns":["i want to sign up", "signup", "sign up", "how do i sign up?","how to signup?"],
-        "responses":["we will show you","here is how u can sign up"],
-        "context_set": ""
-      },
-      {"tag":"buy",
-        "patterns":["how do i buy products?", "i want to buy", "buy", "how can i buy products??","how to buy?"],
-        "responses":["we will show you","here is how u can buy products"],
-        "context_set": ""
-      },
-      {"tag":"seller",
-        "patterns":["i want to sell my products online", "seller", "i want to become a seller", "how do i sell?","how to sell my products?"],
-        "responses":["we will show you","here is how u can sell your products", "here is how can become a seller"],
-        "context_set": ""
-      }
+    }
 
   ]
   }
