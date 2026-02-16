@@ -18,6 +18,11 @@
         "patterns":["I am sad", "less marks", "i am depressed", "I am annoyed","Why do bad things happen to me?"],
         "responses":["Do not worry, Everything will be fine", "I am here for you"],
         "context_set": ""
+      },
+      {"tag":"help",
+        "patterns":["I need help", "Need to talk to someone", "I am alone right now", "Nobody likes me"],
+        "responses":["I am always here", "What happened??", "Just another bad day, tell me how are you?"],
+        "context_set": ""
       }
 
   ]
